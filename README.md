@@ -1,16 +1,20 @@
 # league_of_legends
 
-League of Legends Ön Arayüz Klon
+<h1>League of Legends Giriş Yap Ekranı Klon</h1>
 
-## Getting Started
+<p> Flutter ile League of Legends Oyunun Kullanıcı Giriş Ekranı Windows Uygulaması Klonu Yapılmıştır</p>
 
-This project is a starting point for a Flutter application.
+<h5> * Uygulamada Bulunan Özellikler</h5>
+<ul>
+  <li>-> Giriş Yapma Ekranı</li>
+</ul>
 
-A few resources to get you started if this is your first Flutter project:
+<h5> * Paketler (pub dev)</h5>
+<ul>
+  <li>-> google_fonts: ^2.3.2 </li>
+</ul>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<h5> * Windows Uygulaması Resimleri</h5>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/77950761/220831908-b1833266-379c-4859-a9d9-cc019d454df3.png" >
+
